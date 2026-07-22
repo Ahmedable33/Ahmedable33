@@ -1,74 +1,101 @@
-<h1 align="center">Hi 👋, I'm Abd'Hamed</h1>
+<h1 align="center">👋 Bonjour, je suis Abd'Hamed</h1>
 
 <h3 align="center">
-Full Stack Developer • DevOps Engineer • AI Enthusiast
+Développeur Full Stack • DevOps • Passionné d'Intelligence Artificielle
 </h3>
 
 <p align="center">
-Building scalable applications with Django, Next.js and modern DevOps.
+Je conçois des applications web modernes, performantes et évolutives avec Django, Next.js et les technologies DevOps.
 </p>
 
 ---
 
-# 🚀 About Me
+# 🚀 À propos de moi
 
-💻 Full Stack Developer
+💻 Développeur Full Stack
 
-⚙️ Passionate about Backend, DevOps and Cloud Infrastructure.
+⚙️ Passionné par le développement Backend, le DevOps, le Cloud et l'IA.
 
-🌍 Based in Benin
+🌍 Basé au Bénin 🇧🇯
 
-📚 Currently working on:
+📚 J'améliore continuellement mes compétences en :
 
-- LearnLite
-- GoPharma
-- AI Applications
-- Kubernetes Deployments
+- Django
+- Next.js
+- React
+- Flutter
+- Docker
+- Kubernetes
+- Ansible
+- Intelligence Artificielle
+
+🎯 Mon objectif est de créer des applications fiables, sécurisées et capables de monter en charge.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Technologies
 
-### Backend
+### 💻 Langages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+---
+
+### ⚙️ Backend
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 
-### Frontend
+---
 
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+### 🎨 Frontend
+
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-### Mobile
+---
+
+### 📱 Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
-### Databases
+---
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+### 🗄️ Bases de données
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis)
 
-### DevOps
+---
+
+### ☁️ DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 
-![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
 
-![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Mes principaux projets
 
 ## 📚 LearnLite
 
-Smart learning platform based on the SM-2 algorithm.
+Application d'apprentissage basée sur l'algorithme de répétition espacée **SM-2**.
+
+**Technologies :**
 
 - Django
 - Next.js
@@ -80,22 +107,24 @@ Smart learning platform based on the SM-2 algorithm.
 
 ## 💊 GoPharma
 
-Medical management platform.
+Plateforme de gestion médicale et pharmaceutique.
+
+**Technologies :**
 
 - Django
-- REST API
 - PostgreSQL
 - Docker
+- API REST
 
 ---
 
-## 🤖 AI Projects
+## 🤖 Intelligence Artificielle
 
-Artificial Intelligence applications using local LLMs and modern AI frameworks.
+Développement d'applications utilisant des modèles d'IA modernes et des LLM exécutés localement.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Mes statistiques GitHub
 
 <p align="center">
 
@@ -107,7 +136,7 @@ Artificial Intelligence applications using local LLMs and modern AI frameworks.
 
 ---
 
-# 📈 Most Used Languages
+# 📈 Langages les plus utilisés
 
 <p align="center">
 
@@ -117,14 +146,36 @@ Artificial Intelligence applications using local LLMs and modern AI frameworks.
 
 ---
 
-# 📫 Contact
+# 🎯 Ce que j'aime développer
 
-💼 LinkedIn
+✅ Applications Web
 
-🌐 Portfolio
+✅ API REST & GraphQL
 
-📧 Email
+✅ Automatisation
+
+✅ DevOps & CI/CD
+
+✅ Intelligence Artificielle
+
+✅ Infrastructure Cloud
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📫 Me contacter
+
+📧 Email : ahmedabladon@gmail.com
+
+💼 LinkedIn : https://linkedin.com/in/votreprofil
+
+🌐 Portfolio : https://votresite.com
+
+---
+
+<div align="center">
+
+### ⭐ Merci de votre visite !
+
+N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration.
+
+</div>
