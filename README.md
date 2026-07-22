@@ -1,130 +1,210 @@
 <h1 align="center">👋 Bonjour, je suis Abd'Hamed</h1>
 
 <h3 align="center">
-Développeur Full Stack • DevOps • Passionné d'Intelligence Artificielle
+Ingénieur Logiciel • Développeur Full Stack • DevOps Engineer • Passionné d'IA
 </h3>
 
 <p align="center">
-Je conçois des applications web modernes, performantes et évolutives avec Django, Next.js et les technologies DevOps.
+Je développe des applications web modernes, automatise les infrastructures cloud et conçois des solutions évolutives.
 </p>
 
 ---
 
 # 🚀 À propos de moi
 
-💻 Développeur Full Stack
+Je suis ** Développeur Full Stack et DevOps** basé au **Bénin 🇧🇯**.
 
-⚙️ Passionné par le développement Backend, le DevOps, le Cloud et l'IA.
+Depuis plusieurs années, je conçois des applications web performantes ainsi que des infrastructures automatisées.
 
-🌍 Basé au Bénin 🇧🇯
+J'aime particulièrement :
 
-📚 J'améliore continuellement mes compétences en :
+- 🎨 Frontend
+- ⚙️ le Backend
+- ☁️ le Cloud
+- 🚀 le DevOps
+- 🤖 l'Intelligence Artificielle
+- 📈 l'automatisation
+- 🏗️ l'architecture logicielle
+
+Je cherche toujours à construire des solutions robustes, maintenables et évolutives.
+
+---
+# 🛠️ Technologies
+
+## 💻 Langages
+
+- Python
+- JavaScript
+- TypeScript
+- PHP
+- C#
+
+---
+
+## ⚙️ Backend
 
 - Django
-- Next.js
+- Django REST Framework
+- Flask
+- FastAPI
+- NestJS
+- Node.js
+- Laravel
+
+---
+
+## 🎨 Frontend
+
 - React
+- Next.js
+- Tailwind CSS
+- Bootstrap
+
+---
+
+## 📱 Mobile
+
 - Flutter
+
+---
+
+## 🗄️ Bases de données
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+
+---
+
+## ☁️ DevOps
+
 - Docker
 - Kubernetes
 - Ansible
-- Intelligence Artificielle
-
-🎯 Mon objectif est de créer des applications fiables, sécurisées et capables de monter en charge.
-
----
-
-# 🛠️ Technologies
-
-### 💻 Langages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+- GitHub Actions
+- GitLab CI/CD
+- Prometheus
+- Grafana
+- Linux
+- GCP
 
 ---
 
-### ⚙️ Backend
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-
----
-
-### 🎨 Frontend
-
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
----
-
-### 📱 Mobile
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-
----
-
-### 🗄️ Bases de données
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis)
-
----
-
-### ☁️ DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-# 🚀 Mes principaux projets
+# 🚀 Projets
 
 ## 📚 LearnLite
 
-Application d'apprentissage basée sur l'algorithme de répétition espacée **SM-2**.
+Plateforme de répétition espacée basée sur l'algorithme **SM-2**.
 
-**Technologies :**
+### Fonctionnalités
+
+- Authentification
+- Dashboard
+- Révision intelligente
+- Statistiques
+- Docker
+- Monitoring
+- Déploiement automatisé
+
+**Stack**
 
 - Django
 - Next.js
 - PostgreSQL
 - Redis
 - Docker
+- Ansible
+- Prometheus
+- Grafana
 
 ---
 
 ## 💊 GoPharma
 
-Plateforme de gestion médicale et pharmaceutique.
+Plateforme de recherche de pharmacies et de disponibilité des médicaments.
 
-**Technologies :**
+### Fonctionnalités
 
-- Django
-- PostgreSQL
-- Docker
+- Géolocalisation
+- Recherche intelligente
+- Synchronisation des stocks
 - API REST
 
+**Stack**
+
+- NestJS
+- Next.js
+- MongoDB
+- Redis
+
 ---
 
-## 🤖 Intelligence Artificielle
+## 🎫 E-Ticket
 
-Développement d'applications utilisant des modèles d'IA modernes et des LLM exécutés localement.
+Application de vente de billets.
+
+- Django
+- Authentification
+- Paiement
 
 ---
 
-# 📊 Mes statistiques GitHub
+## 💳 Wafupay
+
+Interface de paiement moderne.
+
+- React
+- Tailwind CSS
+
+---
+
+## 🛒 SkillHub
+
+Boutique en ligne responsive.
+
+- Next.js
+- Node.js
+
+---
+
+# 📚 Certifications
+
+🎓 Licence en Informatique
+
+🤖 IA & Développement de Chatbots
+
+☁️ Infrastructure Cloud & DevOps
+
+📊 IA & Data Science
+
+---
+
+# 🌱 En ce moment
+
+J'apprends actuellement :
+
+- Kubernetes avancé
+- Terraform
+- AWS
+- Intelligence Artificielle
+- Flutter
+- Architecture Microservices
+
+---
+
+# 🎯 Centres d'intérêt
+
+- Intelligence Artificielle
+- DevOps
+- Cloud Computing
+- Open Source
+- Trading Algorithmique
+- Automatisation
+
+---
+
+# 📈 Statistiques GitHub
 
 <p align="center">
 
@@ -136,7 +216,7 @@ Développement d'applications utilisant des modèles d'IA modernes et des LLM ex
 
 ---
 
-# 📈 Langages les plus utilisés
+# 💻 Langages les plus utilisés
 
 <p align="center">
 
@@ -146,36 +226,22 @@ Développement d'applications utilisant des modèles d'IA modernes et des LLM ex
 
 ---
 
-# 🎯 Ce que j'aime développer
-
-✅ Applications Web
-
-✅ API REST & GraphQL
-
-✅ Automatisation
-
-✅ DevOps & CI/CD
-
-✅ Intelligence Artificielle
-
-✅ Infrastructure Cloud
-
----
-
 # 📫 Me contacter
 
 📧 Email : ahmedabladon@gmail.com
 
-💼 LinkedIn : https://linkedin.com/in/votreprofil
+📍 Abomey-Calavi, Bénin
 
-🌐 Portfolio : https://votresite.com
+💼 GitLab : https://gitlab.com/ahmedabladon
+
+🌐 Portfolio : En cours de développement
 
 ---
 
-<div align="center">
+<p align="center">
 
-### ⭐ Merci de votre visite !
+⭐ Merci de votre visite !
 
-N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration.
+Si un projet vous intéresse ou si vous souhaitez collaborer, n'hésitez pas à me contacter.
 
-</div>
+</p>
